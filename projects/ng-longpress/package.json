@@ -1,6 +1,6 @@
 {
   "name": "@edwin2delossantos/ng-longpress",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "description": "An Angular directive for detecting long press events.",
   "license": "MIT",
   "author": "Edwin Delos Santos",

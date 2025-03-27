@@ -2,7 +2,7 @@ import { NgModule } from '@angular/core';
 import { LongPressDirective } from './long-press.directive';
 
 @NgModule({
-  imports: [LongPressDirective],
+  declarations: [LongPressDirective],
   exports: [LongPressDirective]
 })
 export class NgLongpressModule { }

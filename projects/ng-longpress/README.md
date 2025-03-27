@@ -14,7 +14,7 @@
 Install the package via npm:
 
 ```bash
-npm install ng-longpress
+npm i @edwin2delossantos/ng-longpress
 ```
 
 ## Usage
@@ -26,7 +26,7 @@ To use the directive, import the `NgLongpressModule` into the Angular module whe
 ```typescript
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-import { NgLongpressModule } from 'ng-longpress';
+import { NgLongpressModule } from '@edwin2delossantos/ng-longpress';
 
 @NgModule({
   declarations: [
