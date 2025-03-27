@@ -1,7 +1,9 @@
 {
   "name": "@edwin2delossantos/ng-longpress",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "description": "An Angular directive for detecting long press events.",
+  "license": "MIT",
+  "author": "Edwin Delos Santos",
   "keywords": [
     "angular",
     "directive",
@@ -11,6 +13,10 @@
     "press and hold",
     "ng-longpress"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fow903/ng-longpress.git"
+  },
   "peerDependencies": {
     "@angular/common": "^19.2.0",
     "@angular/core": "^19.2.0"
